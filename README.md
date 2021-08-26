@@ -1,29 +1,16 @@
-# mamamia
+# Prueba - Games Opinion Site
 
 ## Project setup
 ```
 npm install
 ```
+## Se aplica punto 1, 2, 3, 4, 5 , 8 y 9 ##
 
-### Compiles and hot-reloads for development
 ```
-npm run serve
-```
-
-### Compiles and minifies for production
-```
-npm run build
+### Ejecutado con 
+yarn serve
 ```
 
-### Run your unit tests
-```
-npm run test:unit
-```
 
-### Run your end-to-end tests
-```
-npm run test:e2e
-```
+### Luis Aviles Santos
 
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
